@@ -10,8 +10,11 @@
 
 ## ✨ Men haqimda
 
-- 💻 Python dasturchiman, ayniqsa **Telegram bot** va **web dasturlash** bilan shug‘ullanaman.
-- 📘 **CSS kitob** .
+- 💻 Bo'lajak Python dasturchiman, ayniqsa **Telegram bot** va **web dasturlash** bilan shug‘ullanaman.
+- 📘 <a href="https://ba.uz/" target="_blank">
+    <img src="https://img.shields.io/badge/Bobur%20Alikhanov%20Tech%20Academy-0073e6?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+
 - 🎯 Hozirda **Python full-stack** yo‘nalishida bilimlarimni oshirmoqdaman.
 
 ## 🚀 Muhim loyihalarim

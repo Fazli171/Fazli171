@@ -10,8 +10,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-## 📊 Mening GitHub Statistikam:
-![Fazli171's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=gruvbox)
 
 ## 🏆 GitHub Trophy:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Fazli171&theme=onedark)

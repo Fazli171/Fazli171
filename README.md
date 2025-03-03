@@ -3,8 +3,9 @@
   Hello! I'm Fazliddin Narzullayev
 </h1>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fazli171&theme=radical" alt="GitHub Streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fazli171&theme=radical" alt="GitHub Profile Summary">
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fazli171&label=Profile+Views&color=blue" alt="Profile Views">

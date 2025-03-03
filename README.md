@@ -15,8 +15,7 @@
 ## 📊 Mening GitHub Statistikam:
 ![Fazli171's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=gruvbox)
 
-## 🔥 GitHub Faoliyat Grafigi:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fazli171&theme=dracula)
+
 
 ## 🏆 GitHub Trophy:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Fazli171&theme=onedark)

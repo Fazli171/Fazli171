@@ -10,8 +10,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-# Salom! 👋
-
 ## 📊 Mening GitHub Statistikam:
 ![Fazli171's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=gruvbox)
 
@@ -21,8 +19,7 @@
 ## 🚀 Eng Ko‘p Ishlatilgan Dasturlash Tillari:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazli171&layout=compact&theme=tokyonight)
 
-## 🔍 Profilga tashriflar soni:
-![Profile Views](https://komarev.com/ghpvc/?username=Fazli171&label=Visitors&color=ff69b4&style=flat-square)
+
 
 ## ✨ About Me & Experience
 

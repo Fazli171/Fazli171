@@ -11,8 +11,8 @@
 ## ✨ Men haqimda va Amaliyotim
 
 - 💻 Bo'lajak Python dasturchiman, ayniqsa **Telegram bot** va **web dasturlash** bilan shug‘ullanaman.
-- <a href="https://ba.uz/" target="_blank">
-<img src="https://img.shields.io/badge/Bobur%20Alikhanov%20Tech%20Academy-0073e6?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <a href="https://ba.uz/" target="_blank">
+- <img src="https://img.shields.io/badge/Bobur%20Alikhanov%20Tech%20Academy-0073e6?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </a>
 
 - <img src="https://img.shields.io/badge/Python%20Full--Stack%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />

@@ -2,9 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJmdHhrOGd2OTBwbjZuZnozMWI2a2x4YnU3eXo4eXV4aTlnMTI3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JZ5bhhgPrr3GGQ/giphy.gif" width = 80px>  
   Hello! I'm Fazliddin Narzullayev
 </h1>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fazli171&theme=radical&cache_seconds=10" alt="GitHub Streak">
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=radical&cache_seconds=10" alt="GitHub Stats">
@@ -16,8 +14,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazli171&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages">
 </p>
-
-
 
 
 ## ✨ About Me & Experience

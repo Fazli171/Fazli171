@@ -33,6 +33,9 @@
 📧 **Email:** fazli_1998@email.com | matem3599798@gmail.com  
 📢 **Telegram:**  
 <img src="https://img.shields.io/badge/Email-fazli_1998@email.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:matem3599798@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-matem3599798@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <a href="https://t.me/PYTHON_171" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />

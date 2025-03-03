@@ -1,29 +1,32 @@
-<h1 align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlrbTIwc2VoNDY1NDJmYjRkeGtyOWZmNG9iZ2p5OG82eGVtdmk3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J263gBM7VRIDl9NJS/giphy.gif" width = 60px>Salom!  Men Fazliddin Narzullayev</h1>
+<h1 align="center"> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlrbTIwc2VoNDY1NDJmYjRkeGtyOWZmNG9iZ2p5OG82eGVtdmk3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J263gBM7VRIDl9NJS/giphy.gif" width = 60px>  
+  Hello! I'm Fazliddin Narzullayev
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fazli171&label=Profile+Views&color=blue" alt="Profil ko'rishlar soni">
+  <img src="https://komarev.com/ghpvc/?username=Fazli171&label=Profile+Views&color=blue" alt="Profile Views">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=radical" alt="GitHub statistikasi">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-## ✨ Men haqimda va Amaliyotim
+## ✨ About Me & Experience
 
-- 💻 Bo'lajak Python dasturchiman, ayniqsa **Telegram bot** va **web dasturlash** bilan shug‘ullanaman.
+- 💻 Aspiring **Python Developer**, focusing on **Telegram bots** and **web development**.  
   <a href="https://ba.uz/" target="_blank">
-- <img src="https://img.shields.io/badge/Bobur%20Alikhanov%20Tech%20Academy-0073e6?style=for-the-badge&logo=google-scholar&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Bobur%20Alikhanov%20Tech%20Academy-0073e6?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>  
 
 - <img src="https://img.shields.io/badge/Python%20Full--Stack%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-## 🚀 Muhim loyihalarim
+## 🚀 Notable Projects
 
-🔹 **[Telegram Bot](https://github.com/Fazli171/number_system/blob/master/telebot2.py)** - Python va `telebot` asosida yozilgan bot.  
-🔹 **[CSS Sahifa](https://www.w3schools.com/css/css_intro.asp)** - CSS bo‘yicha to‘liq qo‘llanma.  
-🔹 **[GitHub Qo‘llanma](https://github.com/Fazli171/github-guide)** - GitHub bilan ishlash bo‘yicha qo‘llanma.  
+🔹 **[Telegram Bot](https://github.com/Fazli171/number_system/blob/master/telebot2.py)** - A bot built using Python and `telebot`.  
+🔹 **[CSS Guide](https://www.w3schools.com/css/css_intro.asp)** - A complete CSS tutorial.  
+🔹 **[GitHub Guide](https://github.com/Fazli171/github-guide)** - A guide on working with GitHub.  
 
-## 📌O'rganayotgan Texnologiyalarim 
+## 📌 Technologies I'm Learning 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -34,7 +37,7 @@
   </a>
 </p>
 
-## 📬 Muloqot  
+## 📬 Contact Me  
 <a href="mailto:fazli_1998@email.com">
     <img src="https://img.shields.io/badge/Email-fazli_1998@email.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -51,4 +54,4 @@
 </a>
 ---
 
-⭐ **Agar loyihalarim foydali bo‘lsa, menga yulduz bering!** 🚀
+⭐ **If you find my projects useful, give me a star!** 🚀

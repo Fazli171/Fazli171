@@ -3,12 +3,7 @@
   Hello! I'm Fazliddin Narzullayev
 </h1>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fazli171&theme=radical" alt="GitHub Profile Summary">
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fazli171&label=Profile+Views&color=blue" alt="Profile Views">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fazli171&theme=radical&cache_seconds=1800" alt="GitHub Streak">
 </p>
 
 <p align="center">
@@ -18,9 +13,10 @@
 
 ## 🏆 GitHub Trophy:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Fazli171&theme=onedark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazli171&layout=compact&theme=radical&cache_seconds=1800" alt="Most Used Languages">
+</p>
 
-## 🚀 Most Used Programming Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazli171&layout=compact&theme=tokyonight)
 
 
 

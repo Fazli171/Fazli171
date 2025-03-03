@@ -50,8 +50,9 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/fazli_1098" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fazli_1098-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 ---
 
 ⭐ **If you find my projects useful, give me a star!** 🚀

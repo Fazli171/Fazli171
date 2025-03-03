@@ -31,9 +31,8 @@
 
 ## 📬 Muloqot  
 📧 **Email:** example@email.com  
-📢 **Telegram:** [@Fazli171](https://t.me/Fazli171)  
+📢 **Telegram:** [@PYTHON_171](https://t.me/PYTHON_171)  
 
 ---
 
 ⭐ **Agar loyihalarim foydali bo‘lsa, menga yulduz bering!** 🚀
-

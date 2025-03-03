@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophy:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Fazli171&theme=onedark)
 
-## 🚀 Eng Ko‘p Ishlatilgan Dasturlash Tillari:
+## 🚀 Most Used Programming Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazli171&layout=compact&theme=tokyonight)
 
 

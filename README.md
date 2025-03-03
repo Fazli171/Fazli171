@@ -1,4 +1,4 @@
-<h1 align="center">Salom! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFnM2kxeGxtZjFwenF5bzd1bzA4OTl4a3hlYngwbHpreDVwOTdhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKkqqRlfzajljKVV5p/giphy.gif"> Men Fazliddin Narzullayev</h1>
+<h1 align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFnM2kxeGxtZjFwenF5bzd1bzA4OTl4a3hlYngwbHpreDVwOTdhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKkqqRlfzajljKVV5p/giphy.gif" width = 20px>Salom!  Men Fazliddin Narzullayev</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fazli171&label=Profile+Views&color=blue" alt="Profil ko'rishlar soni">

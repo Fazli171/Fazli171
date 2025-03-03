@@ -19,8 +19,8 @@
 
 ## 🚀 Muhim loyihalarim
 
-🔹 **[Telegram Bot](https://github.com/Fazli171/telegram-bot)** - Python va `aiogram` asosida yozilgan bot.  
-🔹 **[CSS Kitob](https://github.com/Fazli171/css-book)** - CSS bo‘yicha to‘liq qo‘llanma.  
+🔹 **[Telegram Bot](https://github.com/Fazli171/number_system/blob/master/telebot2.py)** - Python va `aiogram` asosida yozilgan bot.  
+🔹 **[CSS Sahifa](https://www.w3schools.com/css/css_intro.asp)** - CSS bo‘yicha to‘liq qo‘llanma.  
 🔹 **[GitHub Qo‘llanma](https://github.com/Fazli171/github-guide)** - GitHub bilan ishlash bo‘yicha qo‘llanma.  
 
 ## 📌O'rganayotgan Texnologiyalarim 

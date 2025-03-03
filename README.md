@@ -11,7 +11,7 @@
 ## ✨ Men haqimda
 
 - 💻 Python dasturchiman, ayniqsa **Telegram bot** va **web dasturlash** bilan shug‘ullanaman.
-- 📘 **CSS kitob** yozmoqdaman.
+- 📘 **CSS kitob** .
 - 🎯 Hozirda **Python full-stack** yo‘nalishida bilimlarimni oshirmoqdaman.
 
 ## 🚀 Muhim loyihalarim
@@ -20,7 +20,7 @@
 🔹 **[CSS Kitob](https://github.com/Fazli171/css-book)** - CSS bo‘yicha to‘liq qo‘llanma.  
 🔹 **[GitHub Qo‘llanma](https://github.com/Fazli171/github-guide)** - GitHub bilan ishlash bo‘yicha qo‘llanma.  
 
-## 📌 Texnologiyalar  
+## 📌O'rganayotgan Texnologiyalarim 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -30,8 +30,12 @@
 </p>
 
 ## 📬 Muloqot  
-📧 **Email:** example@email.com  
-📢 **Telegram:** [@PYTHON_171](https://t.me/PYTHON_171)  
+📧 **Email:** fazli_1998@email.com | matem3599798@gmail.com  
+📢 **Telegram:**  
+<a href="https://t.me/PYTHON_171" target="_blank">
+  <img src="https://your-image-host.com/path-to-image.jpg" width="100px" style="border-radius:50%;">
+</a>
+
 
 ---
 

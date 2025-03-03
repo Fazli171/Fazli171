@@ -8,14 +8,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=radical" alt="GitHub statistikasi">
 </p>
 
-## ✨ Men haqimda
+## ✨ Men haqimda va Amaliyotim
 
 - 💻 Bo'lajak Python dasturchiman, ayniqsa **Telegram bot** va **web dasturlash** bilan shug‘ullanaman.
 - <a href="https://ba.uz/" target="_blank">
 <img src="https://img.shields.io/badge/Bobur%20Alikhanov%20Tech%20Academy-0073e6?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </a>
 
-_ <img src="https://img.shields.io/badge/Python%20Full--Stack%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+- <img src="https://img.shields.io/badge/Python%20Full--Stack%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ## 🚀 Muhim loyihalarim
 

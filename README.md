@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJmdHhrOGd2OTBwbjZuZnozMWI2a2x4YnU3eXo4eXV4aTlnMTI3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JZ5bhhgPrr3GGQ/giphy.gif" width = 60px>  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJmdHhrOGd2OTBwbjZuZnozMWI2a2x4YnU3eXo4eXV4aTlnMTI3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JZ5bhhgPrr3GGQ/giphy.gif" width = 80px>  
   Hello! I'm Fazliddin Narzullayev
 </h1>
 

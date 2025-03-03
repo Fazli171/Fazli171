@@ -3,11 +3,11 @@
   Hello! I'm Fazliddin Narzullayev
 </h1>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fazli171&theme=radical&cache_seconds=1800" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fazli171&theme=radical&cache_seconds=10" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=radical&cache_seconds=10" alt="GitHub Stats">
 </p>
 
 

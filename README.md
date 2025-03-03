@@ -15,13 +15,8 @@
 ## 📊 Mening GitHub Statistikam:
 ![Fazli171's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazli171&show_icons=true&theme=gruvbox)
 
-
-
 ## 🏆 GitHub Trophy:
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Fazli171&theme=onedark)
-
-## 🔥 Ketma-ket commitlar:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fazli171&theme=highcontrast)
 
 ## 🚀 Eng Ko‘p Ishlatilgan Dasturlash Tillari:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazli171&layout=compact&theme=tokyonight)

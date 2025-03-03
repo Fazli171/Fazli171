@@ -39,7 +39,7 @@
 
 ## 📬 Contact Me  
 <a href="mailto:fazli_1998@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1D4D99?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-fazli_1998%40email.com-1D4D99?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="mailto:matem3599798@gmail.com" target="_blank">

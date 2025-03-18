@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://t.me/PYTHON_171" target="_blank">
+<a href="https://t.me/PyStacker_1" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="mailto:fazli_1998@email.com" target="_blank">
